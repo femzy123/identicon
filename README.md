@@ -1,6 +1,8 @@
 # Identicon
 
-**TODO: Add description**
+**Description**
+Identicon is a program that generates an identicon from a string
+
 
 ## Installation
 
@@ -15,7 +17,8 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
+<!-- Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
+be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon). -->
 
+## Proper Documentation will be added later
